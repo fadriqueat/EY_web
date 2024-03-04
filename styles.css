@@ -584,8 +584,8 @@ img {
     font-size: var(--big-font-size);
   }
   .home__img {
-    width: 200px;
-    top: -13rem;
+    width: 100px;
+    top: -130rem;
   }
   .home__title {
     top: -4rem;
@@ -614,6 +614,7 @@ img {
   .products__container {
     grid-template-columns: 142px;
     justify-content: center;
+    
   }
 }
 
