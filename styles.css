@@ -232,10 +232,10 @@ img {
 /*=============== HOME ===============*/
 .home__img {
   width: 250px;
-  position: absolute;
+  position: auto;
   top: -16rem;
   right: 1.5rem;
-  margin-top: 130px;
+
 }
 
 .home__data {
@@ -369,7 +369,7 @@ img {
 
 .case__img {
   width: 250px;
-  position: absolute;
+  position: auto;
   left: -7rem;
 }
 
@@ -397,7 +397,7 @@ img {
 
 .discount__img {
   width: 300px;
-  position: absolute;
+  position: auto;
   top: 4rem;
   right: -11rem;
 }
