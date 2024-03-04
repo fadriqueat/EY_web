@@ -85,7 +85,7 @@ ul {
 
 a, a:link {
   text-decoration: none;
-  color: white;
+  color: #00cf98;
 }
 
 button,
@@ -235,13 +235,13 @@ img {
 .home__img {
   width: 250px;
   position: auto;
-  top: -16rem;
+  top: 0rem;
   right: 1.5rem;
 
 }
 
 .home__data {
-  padding-top: 5rem;
+  padding-top: -20rem;
   margin-bottom: 50px;
 }
 
