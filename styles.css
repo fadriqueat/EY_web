@@ -586,6 +586,7 @@ img {
   .home__img {
     width: 100px;
     top: -130rem;
+    margin-bottom: 100px;
   }
   .home__title {
     top: -4rem;
