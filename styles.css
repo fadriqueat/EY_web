@@ -230,6 +230,8 @@ img {
 }
 
 /*=============== HOME ===============*/
+
+
 .home__img {
   width: 250px;
   position: auto;
@@ -244,11 +246,11 @@ img {
 }
 
 .home__header {
-  position: relative;
+  position: auto;
 }
 
 .home__title {
-  position: absolute;
+  position: auto;
   top: -4rem;
   left: 1rem;
   line-height: 6rem;
